@@ -1,29 +1,38 @@
-# Hey，我是 Branch
+# Branch
 
-AI Native Team 研究 · 企业智能化咨询 · AI Coder
+AI Native team research · enterprise AI consulting · AI coder
 
-我希望探索出一种高效的团队模式，在 AI Native 环境下高效率地运行——把理论应用到实践中，从团队架构到工具，最后得到一个好的成果。
+Exploring how teams run efficiently in an AI-native environment —
+from architecture and tooling to shipped results.
 
-🌐 [个人网站](https://branch-2u8.pages.dev/)
+[branch-2u8.pages.dev](https://branch-2u8.pages.dev/)
 
 ---
 
-### 正在做的事
+## Now
 
-| 项目 | 状态 |
-| --- | --- |
-| [Bbu Verification Layer](https://github.com/BranchCrypto/Bbu-Verification-Layer) | 2026 · Ongoing |
-| [Bubu Agent](https://github.com/BranchCrypto/bbu) | 2026 · Ongoing |
+| Project                   |         Status |
+| :------------------------ | -------------: |
+| [Bbu Verification Layer]  | 2026 · ongoing |
+| [Bubu Agent]              | 2026 · ongoing |
 
-### 近期写作
+## Writing
 
-- [AI Slop 和 AI 味](https://branch-2u8.pages.dev/) · 2026.09
-- [正确带领 AI Native 团队](https://branch-2u8.pages.dev/) · 2026.09
-- [拆解 GEO 骗局](https://branch-2u8.pages.dev/) · 2026.09
+| Title                     |    Date |
+| :------------------------ | ------: |
+| [AI Slop and AI Taste]    | 2026.09 |
+| [Leading AI Native Teams] | 2026.09 |
+| [Unpacking the GEO Scam]  | 2026.09 |
 
 ---
 
 ```text
-Focus: AI Native teams · tooling · verification
-Site:  https://branch-2u8.pages.dev/
+focus  AI Native teams · tooling · verification
+site   https://branch-2u8.pages.dev/
 ```
+
+[Bbu Verification Layer]: https://github.com/BranchCrypto/Bbu-Verification-Layer
+[Bubu Agent]: https://github.com/BranchCrypto/bbu
+[AI Slop and AI Taste]: https://branch-2u8.pages.dev/
+[Leading AI Native Teams]: https://branch-2u8.pages.dev/
+[Unpacking the GEO Scam]: https://branch-2u8.pages.dev/
